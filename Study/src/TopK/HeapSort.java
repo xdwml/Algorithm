@@ -51,7 +51,8 @@ public class HeapSort {
 	}
 
 	public static void main(String[] args) {
-		int[] arr1 = new int[] {25,84,21,47,15,27,68,35,20};
+		int[] arr1 = new int[] {11,6,10,14,13,9,12};
+		//int[] arr1 = new int[] {25,84,21,47,15,27,68,35,20};
 		System.out.println(Arrays.toString(arr1));
 		heapSort(arr1);//堆排序
 		System.out.println(Arrays.toString(arr1));
