@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import java.util.Stack;
 
-public class TwoStackToQueue5 {
+public class T5_TwoStackToQueue {
     Stack<Integer> stack1 = new Stack<Integer>();//入栈
     Stack<Integer> stack2 = new Stack<Integer>();//出栈
     public void push(int node) {
