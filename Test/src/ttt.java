@@ -47,5 +47,9 @@ public class ttt {
         PrePrintTree(head);
         System.out.println();
         InPrintTree(head);
+
+        StringBuffer stringBuffer=new StringBuffer();
+        StringBuilder stringBuilder=new StringBuilder();
+
     }
 }
