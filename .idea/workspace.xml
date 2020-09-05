@@ -9,8 +9,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ff1f914-7f60-4f30-b76a-844161d5888e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T14_FindKthToTail.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/2020/src/sougou/Main2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T15_ReverseList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T16_Merge.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T17_HasSubtree.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T18_Mirror.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T19_printMatrix.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/T21_getMinStack.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/NiuKe/src/ReDo/TreeNode.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/NiuKe/ReDo/T14_FindKthToTail.class" afterPath="$PROJECT_DIR$/out/production/NiuKe/ReDo/T14_FindKthToTail.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,59 +38,69 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sumTwoListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/ListNode/sumTwoListNode.java">
+      <file leaf-file-name="T17_HasSubtree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T17_HasSubtree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <state relative-caret-position="161">
+              <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="swapPairs24.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/ListNode/swapPairs24.java">
+      <file leaf-file-name="T18_Mirror.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T18_Mirror.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="92">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T12_Power.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T12_Power.java">
+      <file leaf-file-name="T19_printMatrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T19_printMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="69">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T21_getMinStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T21_getMinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
               <folding>
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#109#118#0" expanded="true" />
+                <element signature="e#159#168#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T13_reOrderArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T13_reOrderArray.java">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="92">
+              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T14_FindKthToTail.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T14_FindKthToTail.java">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NiuKe/src/Tree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="69">
+              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -116,14 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Study/src/TopK/TopKpartation.java" />
-        <option value="$PROJECT_DIR$/NiuKe/src/huawei/HJ50.java" />
-        <option value="$PROJECT_DIR$/NiuKe/src/huawei/HJ62.java" />
-        <option value="$PROJECT_DIR$/2020/src/aiqiyi/Main2.java" />
-        <option value="$PROJECT_DIR$/2020/src/趋势科技.java" />
-        <option value="$PROJECT_DIR$/2020/src/趋势科技/Main1.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/climbStairs70.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/rob198.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/rob213.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/minPathSum64.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/Top100/containsDuplicate217.java" />
@@ -167,6 +177,14 @@
         <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T12_Power.java" />
         <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T13_reOrderArray.java" />
         <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T14_FindKthToTail.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T15_ReverseList.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T16_Merge.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/TreeNode.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T17_HasSubtree.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T18_Mirror.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T19_printMatrix.java" />
+        <option value="$PROJECT_DIR$/NiuKe/src/ReDo/T21_getMinStack.java" />
+        <option value="$PROJECT_DIR$/2020/src/sougou/Main2.java" />
       </list>
     </option>
   </component>
@@ -190,8 +208,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="32" />
-    <option name="y" value="81" />
+    <option name="x" value="84" />
+    <option name="y" value="105" />
     <option name="width" value="1598" />
     <option name="height" value="860" />
   </component>
@@ -214,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -226,6 +243,17 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="2020" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="NiuKe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -239,7 +267,7 @@
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="NiuKe" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ReDo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -274,8 +302,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -297,8 +326,8 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.7" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Tree" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA\Algorithm\Study\src\Tree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA\Algorithm\Algorithm\2020\src\京东" />
@@ -308,14 +337,14 @@
       <recent name="E:\IDEA\Algorithm\2020\src\科大讯飞" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ReDo" />
       <recent name="nonghang" />
       <recent name="" />
       <recent name="面试题" />
       <recent name="huawei" />
-      <recent name="bytedance" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEA\Algorithm\Study\src\Tree" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Tree" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,7 +359,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.T14_FindKthToTail.test">
+  <component name="RunManager" selected="JUnit.Main2.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -373,6 +402,31 @@
       <method>
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Main2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sougou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="2020" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="sougou" />
+      <option name="MAIN_CLASS_NAME" value="sougou.Main2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration name="T12_Power.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -449,6 +503,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="T16_Merge.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ReDo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="NiuKe" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ReDo" />
+      <option name="MAIN_CLASS_NAME" value="ReDo.T16_Merge" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -471,56 +550,6 @@
       <method>
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="isValidkuohao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="面试题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Study" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="面试题" />
-      <option name="MAIN_CLASS_NAME" value="面试题.isValidkuohao" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="isValidkuohao.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="面试题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Study" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="面试题" />
-      <option name="MAIN_CLASS_NAME" value="面试题.isValidkuohao" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -573,19 +602,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.isValidkuohao.test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.isValidkuohao" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.T12_Power.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.T13_reOrderArray.test" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.T14_FindKthToTail.test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.T12_Power.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.T13_reOrderArray.test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.T14_FindKthToTail.test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.T16_Merge.test" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Main2.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.T14_FindKthToTail.test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.T13_reOrderArray.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.T12_Power.test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.isValidkuohao" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.isValidkuohao.test" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Main2.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.T16_Merge.test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.T14_FindKthToTail.test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.T13_reOrderArray.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.T12_Power.test" />
       </list>
     </recent_temporary>
   </component>
@@ -747,44 +776,45 @@
       <workItem from="1598944963561" duration="4474000" />
       <workItem from="1599029261424" duration="1739000" />
       <workItem from="1599141205544" duration="2508000" />
-      <workItem from="1599179407806" duration="4538000" />
+      <workItem from="1599179407806" duration="6760000" />
+      <workItem from="1599267601693" duration="8932000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 09h 55m 13s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 21m 37s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 09h 57m 34s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 22m 10s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 09h 57m 43s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 22m 12s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 09h 59m 06s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 22m 39s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 10h 01m 08s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 35m 45s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 10h 02m 19s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 35m 54s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 10h 02m 43s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 19h 35m 59s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 10h 03m 22s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 20h 19m 39s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 10h 04m 31s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 20h 23m 46s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="T14_FindKthToTail_test - 2020.09.04 at 10h 06m 17s.xml">
-      <configuration name="T14_FindKthToTail.test" configurationId="JUnit" />
+    <history-entry file="Main2_test - 2020.09.05 at 20h 24m 13s.xml">
+      <configuration name="Main2.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="621566000" />
+    <option name="totallyTimeSpent" value="632720000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -799,8 +829,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.267316" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27056277" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23160173" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948717" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -810,8 +840,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2987013" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1844473" sideWeight="0.50510204" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3008658" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -904,82 +934,11 @@
           <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="85" />
+      <option name="time" value="87" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/src/classB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/src/classC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/src/tstatric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/src/dangdang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/src/LRU_LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/src/面试题/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/src/ListNode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Study/src/TopK/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2020/src/didi/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T7_Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T5_TwoStackToQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -1211,14 +1170,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/ListNode/sumTwoListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/src/ttt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="573">
@@ -1241,22 +1192,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/ListNode/swapPairs24.java">
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T15_ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="391">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T12_Power.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1265,17 +1205,121 @@
         <state relative-caret-position="598">
           <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T12_Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="22" column="25" lean-forward="false" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#601#602#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/ListNode/swapPairs24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/ListNode/sumTwoListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T14_FindKthToTail.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+        <state relative-caret-position="1610">
+          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T16_Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/Tree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T17_HasSubtree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T18_Mirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T19_printMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020/src/sougou/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NiuKe/src/ReDo/T21_getMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#109#118#0" expanded="true" />
+            <element signature="e#159#168#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
           </folding>
         </state>
       </provider>
