@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 public class test {
     public static void main(String[] args) {
 
-        HashMap map= new HashMap();
+       /* HashMap map= new HashMap();
         map.put(null,null);
         map.put("ss",null);
         map.put("s","df");
@@ -25,7 +25,9 @@ public class test {
         map3.put(1,"df");
         map3.put(null,null);
         map3.put(3,"df");
-        System.out.println(map3);
+        System.out.println(map3);*/
+
 
     }
+
 }
